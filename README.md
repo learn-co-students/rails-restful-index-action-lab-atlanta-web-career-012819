@@ -1,5 +1,6 @@
 # RESTful Index Action Lab
 
+
 ## Objectives
 
 1. Draw a get route
